@@ -13,7 +13,7 @@ It balances **appearance**, **speed**, and **functionality** — ideal for devel
 **Features:**
 - ⚡ Fast, lightweight, and responsive prompt (powered by Tide)
 - 🎨 Beautiful theme and syntax highlighting
-- 🧠 Autosuggestions, directory shortcuts, and fuzzy finder integration
+- 🧠 Auto-suggestions, directory shortcuts, and fuzzy finder integration
 - 💻 Developer-ready environment (Neovim, Git, Node.js support)
 - 💬 Custom greeting and optional system summary (via `neofetch`)
 
